@@ -1,1 +1,10 @@
-#Beam CUDA custom miner for HiveOS
+# Beam CUDA custom miner for HiveOS
+
+Full video walk-through: http://bit.ly/BEAMHiveOS 
+
+
+
+### Hive Custom Miner Config ###
+Custom Name: beam_cuda
+
+Installation URL: https://github.com/rigamp/HiveBeamCuda/releases/download/v1.0.0.8.2/beam_cuda-1.0.0.8.2.tar.gz
